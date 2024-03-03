@@ -13,3 +13,4 @@ LeetCode
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](src\longestSubstrWoRepChr\longestSubstrWoRepChr.cpp) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](src\medianOf2SortedArrays\medianOf2SortedArrays.cpp) | Hard | 
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](src\longestPalindromicSubstr\longestPalindromicSubstr.cpp) | Medium |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](src\zigzagConversion\zigzagConversion.cpp) | Medium |
