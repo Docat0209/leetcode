@@ -15,3 +15,4 @@ LeetCode
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](src/longestPalindromicSubstr/longestPalindromicSubstr.cpp) | Medium |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](src/zigzagConversion/zigzagConversion.cpp) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](src/reverseInt/reverseInt.cpp) | Medium |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](src/str2Int/str2Int.cpp) | Medium |
