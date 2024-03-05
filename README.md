@@ -16,3 +16,4 @@ LeetCode
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](src/zigzagConversion/zigzagConversion.cpp) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](src/reverseInt/reverseInt.cpp) | Medium |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](src/str2Int/str2Int.cpp) | Medium |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](src/palindromeNum/palindromeNum.cpp) | Easy |
